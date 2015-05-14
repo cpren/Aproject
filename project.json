@@ -1,0 +1,10 @@
+{
+    "name": "Aproject",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Aproject.xml",
+    "author": "cpren",
+    "minimum_firmware_version": 42
+}
